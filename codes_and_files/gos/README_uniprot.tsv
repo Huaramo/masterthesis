@@ -1,0 +1,20 @@
+--------------------------
+Tab Separated Values Dumps
+--------------------------
+
+The files provided here are to give highlevel summaries of datasets in an 
+easy to parse format. All TSV files are gzipped and their first line is a 
+header line for file content.
+
++++++++++++++++++++++++++
+Stable ID to uniprot Ac
++++++++++++++++++++++++++
+
+Provides mappings from Gene, Transcript and Translation stable identifiers to 
+uniprot accessions with reports as to the % identity of the hit where 
+applicable. Dumps contain all Ensembl exeternal database names which started
+with uniprot so duplication of hits is possible.
+If there are no such mappings in the database, the file will not exist.
+
+File are named Species.assembly.release.uniprot.tsv.gz
+

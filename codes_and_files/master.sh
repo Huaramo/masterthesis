@@ -10,7 +10,7 @@
 
 #------------------------------------------------------
 #Preprocessing: Compute the tables of conditional probability and the tables for the computation of functional similarities:
-python ./gos/prob_go.py 2> ./gos/err > ./gos/py &
+#python ./gos/prob_go.py 2> ./gos/err > ./gos/py &
 
 #------------------------------------------------------
 #Expression correlation v.s. semantic similarity.
