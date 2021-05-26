@@ -27,7 +27,9 @@
 #### 4. Nathan L. Nehrt, Wyatt T. Clark, Predrag Radivojac, and Matthew W. Hahn. Testing the ortholog conjecture with comparative functional genomic data from mammals. Bioinformatics, 7(6), 2011.
 
 ## The Introduction of the Directories:
-### Directory codes_and_files includes the raw data, the pre-processed data and the implementations of the functional similarity and expression correlation analyses.
-### Directory figures includes the plots that are generated for the comparison of functional similarity and expression correlation of every species pair. 
+### Directory codes_and_files:
+#### It includes the raw data, the pre-processed data and the implementations of the functional similarity and expression correlation analyses.
+### Directory figures:
+#### It includes the plots that are generated for the comparison of functional similarity and expression correlation of every species pair. 
 
 ### There are more README files for detailed introductions in each directory.
