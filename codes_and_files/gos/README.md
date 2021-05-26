@@ -17,8 +17,8 @@
 ## child_parent_xx.tsv : 
 ### The tables for the child-parent relationship of the GO-terms for biological process (_bp.tsv), cellular component (_cc.tsv) and molecular function (_mf.tsv).
 ###  There are two columns:  <br />
-###   &nbsp; &nbsp; &nbsp; The first column is somehow marked with 2, is the GO-term itself. <br />
-###   &nbsp; &nbsp; &nbsp; The second column is the parents of the GO-term concatenated with the connector ",". <br />
+####   &nbsp; &nbsp; &nbsp; The first column is somehow marked with 2, is the GO-term itself. <br />
+####   &nbsp; &nbsp; &nbsp; The second column is the parents of the GO-term concatenated with the connector ",". <br />
 
 ## expr_go.py : 
 ### The program for the evaluation of the expression correlation w.r.t. functional similarity. The code to excecute the program is in master.sh, one directory up.
