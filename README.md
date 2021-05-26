@@ -7,7 +7,7 @@
 
 # Supervisors:
 ## Prof. Dr. Kay Nieselt,
-### Intergrative Transcriptomics in Wilhelm-Schickard Institute of University of Tübingen.
+### Intergrative Transcriptomics in the Wilhelm-Schickard Institute, University of Tübingen.
 ## Prof. Dr. Nadine Ziemert, 
 ### Interfaculty Institute of Microbiology and Infection Medicine, University of Tübingen.
 
