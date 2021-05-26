@@ -4,7 +4,8 @@
 ## ortho_co_orthologs_xx.txt, ortho_orthologs_xx.txt and ortho_inparalogs_xx.txt: The files of co-orthologs, orthologs and inparalogs predicted by OrthoVenn2 for the species pairs Saccharomyces cerevisiae and Schizosaccharomyces pombe (_cp.txt), species pair human and mouse (_hm.txt) and species pair mouse and rat (_mr.txt). 
 
 ## bayes_prob_table_xx.tsv : The tables for the reference of conditional probability for biological process (_bp.tsv), cellular component (_cc.tsv) and molecular function (_mf.tsv). 
-###                              There are 4 main columns: <br /> child_node: the GO-term itself <br />
+###                              There are 4 main columns: <br />
+###                                                        child_node: the GO-term itself <br />
 ###                                                        joint_count: the occurrences that all of the parents are all in the same gene annotations. <br />
 ###                                                        joint_count_child: the occurrences that all of the parents and the GO-term itself are all in the same gene  annotations. <br />
 ###                                                        cond_prob: the conditional probability given that all of the parents are all in the same gene annotations, 
