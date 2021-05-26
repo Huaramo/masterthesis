@@ -12,7 +12,7 @@
 ####  &nbsp; &nbsp; &nbsp; joint_count: the occurrences that all of the parents are all in the same gene annotations. <br />
 ####  &nbsp; &nbsp; &nbsp; joint_count_child: the occurrences that all of the parents and the GO-term itself are all in the same gene  annotations. <br />
 ####  &nbsp; &nbsp; &nbsp; cond_prob: the conditional probability given that all of the parents are all in the same gene annotations, 
-####  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;          the probability that this GO-term itself also is in the same gene annotations. <br /> 
+####  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          the probability that this GO-term itself also is in the same gene annotations. <br /> 
 
 ### child_parent_xx.tsv : The tables for the child-parent relationship of the GO-terms for biological process (_bp.tsv), cellular component (_cc.tsv) and molecular function (_mf.tsv).
 ###                          There are two columns: The first column is somehow marked with 2, is the GO-term itself.
