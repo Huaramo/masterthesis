@@ -6,8 +6,10 @@
 ## Chin-Hua Huang
 
 # Supervisors:
-## Prof. Dr. Kay Nieselt of Intergrative Transcriptomics in Wilhelm-Schickard Institute of University of Tübingen.
-## Prof. Dr. Nadine Ziemert of Interfaculty Institute of Microbiology and Infection Medicine, University of Tübingen.
+## Prof. Dr. Kay Nieselt,
+### Intergrative Transcriptomics in Wilhelm-Schickard Institute of University of Tübingen.
+## Prof. Dr. Nadine Ziemert, 
+### Interfaculty Institute of Microbiology and Infection Medicine, University of Tübingen.
 
 ### The website is still under modifications, but some of the content can already be viewed.
 ### After the approval of the supervisors , I will upload the thesis to this project.
