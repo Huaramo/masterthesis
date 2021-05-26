@@ -11,7 +11,7 @@
 ## Prof. Dr. Nadine Ziemert, 
 ### Interfaculty Institute of Microbiology and Infection Medicine, University of Tübingen.
 
-## The website is still under modifications, but some of the content can already be viewed.
+## The website is still under modifications, but some of the contents can already be viewed.
 
 
 ## A Short Introduction of the topic of the thesis:
