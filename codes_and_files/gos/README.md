@@ -14,24 +14,34 @@
 ####  &nbsp; &nbsp; &nbsp; cond_prob: the conditional probability given that all of the parents are all in the same gene annotations, 
 ####  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; the probability that this GO-term itself also is in the same gene annotations. <br /> 
 
-### child_parent_xx.tsv : The tables for the child-parent relationship of the GO-terms for biological process (_bp.tsv), cellular component (_cc.tsv) and molecular function (_mf.tsv).
-###                          There are two columns: The first column is somehow marked with 2, is the GO-term itself.
-###                                                 The second column is the parents of the GO-term concatenated with the connector ",".
+## child_parent_xx.tsv : 
+### The tables for the child-parent relationship of the GO-terms for biological process (_bp.tsv), cellular component (_cc.tsv) and molecular function (_mf.tsv).
+###  There are two columns:  <br />
+###   &nbsp; &nbsp; &nbsp; The first column is somehow marked with 2, is the GO-term itself. <br />
+###   &nbsp; &nbsp; &nbsp; The second column is the parents of the GO-term concatenated with the connector ",". <br />
 
-### expr_go.py : The program for the evaluation of the expression correlation w.r.t. functional similarity. The code to excecute the program is in master.sh, one directory up.
+## expr_go.py : 
+### The program for the evaluation of the expression correlation w.r.t. functional similarity. The code to excecute the program is in master.sh, one directory up.
 
-### go.obo : The original file that embeds the gene ontology files, can be obtained under the website: http://purl.obolibrary.org/obo/go.obo
-### go_counts_xx.tsv : The occurrence of every GO-term. There are 2 columns: The first column : GO-term itself.
-###                                                                             The second column is somehow marked with 0: The occurrence of this GO-term.
+## go.obo : 
+### The original file that embeds the gene ontology files, can be obtained under the website: http://purl.obolibrary.org/obo/go.obo
 
-### xxx_uniprot.tsv: They are the files that map Ensembl to UniProt accession number. 
-###                     There are the original mapping files of human (human_), mouse (mouse_), rat (rat_), S. cerevisiae (cerev_) and S. pombe (pombe_).
-###                     They can be obtained from the following websites:
-###                     S. cerevisiae : http://ftp.ebi.ac.uk/ensemblgenomes/pub/release-51/fungi/tsv/saccharomyces_cerevisiae/
-###                     S. pombe : http://ftp.ebi.ac.uk/ensemblgenomes/pub/release-51/fungi/tsv/schizosaccharomyces_pombe/
-###                     Human : http://ftp.ensembl.org/pub/release-103/tsv/homo_sapiens/
-###                     mouse : http://ftp.ensembl.org/pub/release-103/tsv/mus_musculus/
-###                     rat : http://ftp.ensembl.org/pub/release-103/tsv/rattus_norvegicus/
+## go_counts_xx.tsv : 
+### The occurrence of every GO-term. <br />
+### There are 2 columns: 
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The first column : GO-term itself. <br />
+####  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; The second column is somehow marked with 0: The occurrence of this GO-term.
 
-### semsim.py: The program for the computation of functional similarity measures. The code to excecute the program is in master.sh, one directory up.
+## xxx_uniprot.tsv: 
+### They are the files that map Ensembl to UniProt accession number. <br />
+### There are the original mapping files of human (human_), mouse (mouse_), rat (rat_), S. cerevisiae (cerev_) and S. pombe (pombe_). <br />
+###   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They can be obtained from the following websites: 
+####   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S. cerevisiae : http://ftp.ebi.ac.uk/ensemblgenomes/pub/release-51/fungi/tsv/saccharomyces_cerevisiae/ <br />
+####   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S. pombe : http://ftp.ebi.ac.uk/ensemblgenomes/pub/release-51/fungi/tsv/schizosaccharomyces_pombe/ <br />
+####   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Human : http://ftp.ensembl.org/pub/release-103/tsv/homo_sapiens/ <br />
+####   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mouse : http://ftp.ensembl.org/pub/release-103/tsv/mus_musculus/ <br />
+####   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rat : http://ftp.ensembl.org/pub/release-103/tsv/rattus_norvegicus/ <br />
+
+## semsim.py: 
+### The program for the computation of functional similarity measures. The code to excecute the program is in master.sh, one directory up.
 ###  
