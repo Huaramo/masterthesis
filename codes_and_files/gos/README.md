@@ -35,8 +35,8 @@
 ## xxx_uniprot.tsv: 
 ### They are the files that map Ensembl to UniProt accession number. <br />
 ### There are the original mapping files of human (human_), mouse (mouse_), rat (rat_), S. cerevisiae (cerev_) and S. pombe (pombe_). <br />
-###   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; They can be obtained from the following websites: 
-####   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S. cerevisiae : http://ftp.ebi.ac.uk/ensemblgenomes/pub/release-51/fungi/tsv/saccharomyces_cerevisiae/ <br />
+###  They can be obtained from the following websites: 
+####   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S. cerevisiae : http://ftp.ebi.ac.uk/ensemblgenomes/pub/release-51/fungi/tsv/saccharomyces_cerevisiae/ 
 ####   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S. pombe : http://ftp.ebi.ac.uk/ensemblgenomes/pub/release-51/fungi/tsv/schizosaccharomyces_pombe/ <br />
 ####   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Human : http://ftp.ensembl.org/pub/release-103/tsv/homo_sapiens/ <br />
 ####   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mouse : http://ftp.ensembl.org/pub/release-103/tsv/mus_musculus/ <br />
