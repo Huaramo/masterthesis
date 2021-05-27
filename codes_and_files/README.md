@@ -4,7 +4,7 @@
 ### It contains all BASH codes that activate the programs within the 4 directories.
 ### Every line in this script is commented at the front with the symbol '#'.
 ### If one wants to run certain lines of code, just remove the '#' at the front.
-### Before running the codes, please download a very important file under this address: 
+### Before running the codes, please download the gene annotations in the UniProt database under this address: 
 #### http://ftp.ebi.ac.uk/pub/databases/GO/goa/UNIPROT/goa_uniprot_all.gaf.gz
 ### The size of this file is amount to 200-300 GB, please notice the memory space of your computer.
 ### To run the script on LINUX, simply type:
