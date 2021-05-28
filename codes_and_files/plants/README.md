@@ -6,6 +6,9 @@
 ## GSE64665_Core6RPKM.3zones.csv:
 ### The RNA-seq dataset from Huang et al. which can be downloaded from the database Gene Expression Omnibus (NCBI) under the accession GSE64665.
 
+## rnaseq_plants.tsv:
+### The preprocessed RNA-seq dataset from Huang et al..
+
 ## xxx_uniprot.tsv: 
 ### They are the files that map Ensembl to UniProt accession number. 
 ### There are the original mapping files of Arabidopsis and soybean. 
