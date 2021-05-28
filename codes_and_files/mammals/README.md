@@ -21,5 +21,5 @@
 ## all_protein_seq.fasta:
 ### The proteomes of mouse and rat. (The other proteomes are in the directory gos.)
 
-## ortho_co_orthologs_xx.txt, ortho_orthologs_xx.txt and ortho_inparalogs_xx.txt: 
+## ortho_co_orthologs.txt, ortho_orthologs.txt and ortho_inparalogs.txt: 
 ### The files of co-orthologs, orthologs and inparalogs predicted by OrthoVenn2 for the mouse and rat. 
